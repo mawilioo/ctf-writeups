@@ -1,7 +1,6 @@
 # The Last Message
 
 - **Category:** OSINT
-- **Difficulty:** Easy
 
 ## Challenge Description
 
