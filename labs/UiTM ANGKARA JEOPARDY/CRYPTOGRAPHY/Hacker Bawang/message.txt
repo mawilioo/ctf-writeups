@@ -1,0 +1,10 @@
+=== intercepted_session.log ===
+capture_id: 9f2a1c
+src: 10.10.14.23
+dst: 10.10.14.41
+protocol: chat-sync
+encoding: unknown
+timestamp: 2026-04-17 01:14:28
+
+payload:
+56554e4465334d7762575577626d5666647a4e66613234776433303d
