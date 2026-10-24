@@ -1,6 +1,7 @@
 # The best Teh Tarik
 
 - **Category:** OSINT
+- **Difficulty:** Hard
 
 ## Challenge Description
 
@@ -21,8 +22,11 @@
 > Flag format: OPUCC{Name_Of_The_Shop}
 
 ## Analysis
+
 ### Step 1: Analyze the image
+
 The challenge provided a single image of a restaurant named **Restoran Nor Falah**:
+
 - Located at a corner lot
 - Pink coloured building
 
@@ -33,12 +37,12 @@ The challenge provided a single image of a restaurant named **Restoran Nor Falah
 Found multiple restaurants named **Restoran Nor Falah**, Picked the correct one based on the given image.
 
 ### Step 3: Enter Street View
+
 Rollback to years before to identify the earliest restaurant name visible before the later name changes.
 
 <img width="2560" height="1360" alt="image" src="https://github.com/user-attachments/assets/1cdaaf93-a3a2-4d7f-981d-fad3e1c5a545" />
 
 From the Feb 2014 Street View, it is clear that the earliest name of the restaurant is Restoran Nafih Nasi Kandar
-
 
 Therefore, the flag is:
 
@@ -47,4 +51,3 @@ OPUCC{Restoran_Nafih_Nasi_Kandar}
 ```
 
 ---
-
